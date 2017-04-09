@@ -19,4 +19,4 @@ The source code of the requested webpage is decoded and `<div>` containing the f
 
 BUGS
 ---
-If the name of the city is misspelled, there will be an error.
+Please report if you find any bug.

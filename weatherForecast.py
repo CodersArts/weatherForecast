@@ -1,4 +1,5 @@
-#http://www.weather-forecast.com/locations/
+#Author: Muhammad Ali Zia
+#created on: June 15, 2016.
 
 import re
 import urllib.request

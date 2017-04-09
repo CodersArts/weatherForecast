@@ -6,7 +6,7 @@ A simple python web crawler to fetch weather forecast from http://www.weather-fo
 
 INSTALLATION
 ---
-After downloading or cloning the repo, run `python setup.py install` or if you have different versions of python then `python3 setup.py install` to install the dependencies.
+After downloading or cloning the repo, Navigate to the directory containing the files and double click on **setup.py** or run `python setup.py install` or if you have different versions of python then `python3 setup.py install` to install the dependencies.
 
 HOW IT WORKS
 ---

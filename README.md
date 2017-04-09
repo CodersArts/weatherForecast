@@ -11,7 +11,12 @@ After downloading or cloning the repo, run `python setup.py install` or if you h
 HOW IT WORKS
 ---
 
-It requests the forecast for the city's name that is taken as input and replaces the 'city' with the one entered
+It requests the forecast for the city's name that is taken as input and replaces 'city' in url with the one entered
 http://www.weather-forecast.com/locations/'city'/forecasts/latest
 
-The source code of the requested webpage is decoded and string containing the forecast is searched, manipulated a little, and is displayed.
+The source code of the requested webpage is decoded and `<div>` containing the forecast string is searched, manipulated a little, and is displayed.
+
+
+BUGS
+---
+If the name of the city is misspelled, there will be an error.

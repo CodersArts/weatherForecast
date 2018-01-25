@@ -7,9 +7,13 @@ A simple python web crawler to fetch three days [weather forecast](http://www.we
 ### Installation
 
 After downloading or cloning the repo, Navigate to the directory containing the files and double click on **setup.py** or run 
+
 ```python setup.py install```
+
 or if you have different versions of python then 
+
 ```python3 setup.py install``` 
+
 to install the dependencies.
 
 ### HOW IT WORKS

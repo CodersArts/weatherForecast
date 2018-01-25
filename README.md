@@ -1,6 +1,6 @@
 # WEATHER FORECAST
 
-A simple python web crawler to fetch [weather forecast](http://www.weather-forecast.com)
+A simple python web crawler to fetch three days [weather forecast](http://www.weather-forecast.com)
 
 ## Getting Started
 
